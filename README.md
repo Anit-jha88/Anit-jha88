@@ -1,9 +1,4 @@
 # Myself Anit kumar jha I am a Full Stack javascript developer 
-![HTML](https://img.shields.io/badge/-HTML-red)
-![CSS](https://img.shields.io/badge/-CSS-brightgreen)
-![CSS Positions](https://img.shields.io/badge/-CSS%20Positions-blue)
-![Buttons](https://img.shields.io/badge/-Buttons-orange)
-![Netlify](https://img.shields.io/badge/-Netlify-green)
 
 
 <div id="header" align="center">
