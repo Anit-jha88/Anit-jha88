@@ -6,14 +6,9 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-green)
 
 
-## Description
-
-A  Creativity  Portfolio  landing page created using
-`HTML` and `CSS` With responsive  This project is hosted on  `Netlify` 
-
-**Created By :** Anit Kumar jha
-
-**Time took to complete this project :** 2 day
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## What I learnt by creating this project :-
 
