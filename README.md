@@ -17,18 +17,7 @@
   </a>
 </div>
 
-## What I learnt by creating this project :-
 
-- How to create a navigation bar
-- How to position HTML elements in a web page
-- How to position images in a web page
-- How to create `buttons`
-- Make a cards
-- Fab Icon
-- sav images
-
-
-![Project-14](./2.gig)
 
 
 ### [**My  Protfolio**](https://anitjha.netlify.app/)
