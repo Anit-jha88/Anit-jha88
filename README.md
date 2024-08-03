@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/anit-jha-06886280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="[your-youtube-URL](https://www.youtube.com/@anitjha4795)">
+  <a href="https://www.youtube.com/@anitjha4795">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube Badge"/>
   </a>&nbsp;
   <a href="your-twitter-URL">
