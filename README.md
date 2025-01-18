@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>&nbsp;
    <a href="https://www.facebook.com/anit.jha.9">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>&nbsp;
 </div>
 
