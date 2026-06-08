@@ -23,7 +23,7 @@
    <a href="https://www.instagram.com/anitkumar.jha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>&nbsp;
-</div>
+</div> 
  
 
 
