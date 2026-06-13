@@ -1,4 +1,5 @@
-# Myself Anit kumar jha I am a Full Stack javascript developer!     
+# Myself Anit kumar jha I am a DevOps & Cloud Engineer
+Building scalable, secure, and high-performance applications from code to     
 
 <div id="header" align="center">    
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>                 
