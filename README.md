@@ -27,7 +27,7 @@ Building scalable, secure, and high-performance applications from code to cloud.
  
 <p>AWS Cloud & DevOps Engineer experienced in backend development with Laravel, infrastructure management and CI/CD automation. Skilled in Amazon EC2, Docker and Taraform.</p>
 
- <a href="https://clouddevopslabs.in/" target="_blank">
+ <a href="https://clouddevopslabs.in/" class="btn btn-primary"  target="_blank">
    My  Protfolio
   </a>&nbsp;
 
