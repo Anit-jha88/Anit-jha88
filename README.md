@@ -24,7 +24,7 @@
   </a>&nbsp;
 </div> 
  
-
+<p>AWS Cloud & DevOps Engineer experienced in backend development with Laravel, infrastructure management and CI/CD automation. Skilled in Amazon EC2, Docker and Taraform.</p>
 
 
  ### [**My  Protfolio**](https://anitjha.netlify.app/)
