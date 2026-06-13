@@ -25,7 +25,7 @@ Building scalable, secure, and high-performance applications from code to cloud.
   </a>&nbsp;
 </div> 
  
-<p>I design, automate, and deploy systems that turn code into production-grade reality. My journey began with full-stack development—building web apps with Php, React, and Node.js.</p>
+<p>I design, automate, and deploy systems that turn code into production-grade reality. My journey began with full-stack development—building web apps with Php, React, and Node.js For me, DevOps isn't just about speed—it's about precision, repeatability, and creating systems that empower developers to ship confidently and innovate faster.</p>
 
 &nbsp;
 <p align="center">
