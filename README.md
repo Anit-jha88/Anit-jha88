@@ -25,7 +25,7 @@ Building scalable, secure, and high-performance applications from code to cloud.
   </a>&nbsp;
 </div> 
  
-<p>AWS Cloud & DevOps Engineer experienced in backend development with Laravel, infrastructure management and CI/CD automation. Skilled in Amazon EC2, Docker and Taraform.</p>
+<p>I design, automate, and deploy systems that turn code into production-grade reality. My journey began with full-stack development—building web apps with Php, React, and Node.js.</p>
 
 &nbsp;
 <p align="center">
