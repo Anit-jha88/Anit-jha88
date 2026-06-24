@@ -79,9 +79,6 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 
 
-
----
-
 ## 📡 Establish Connection
 
 <div id="badges" align="center">
