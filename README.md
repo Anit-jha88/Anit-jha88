@@ -111,6 +111,16 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neerajnakka&color=ff9900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<p>I design, automate, and deploy systems that turn code into production-grade reality. My journey began with full-stack development—building web apps with Php, React, and Node.js For me, DevOps isn't just about speed—it's about precision, repeatability, and creating systems that empower developers to ship confidently and innovate faster.</p>
+
+&nbsp;
+<p align="center">
+
+<a href="https://clouddevopslabs.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Now-blue?style=for-the-badge" />
+</a>
+
+
+
+
+</p>
