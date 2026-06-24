@@ -5,7 +5,7 @@
 ### 🌩️ Cloud Architect | ⚙️ DevOps Engineer | 🐧 Linux Enthusiast
 
 <p align="center">
-  <a href="https://neeraj-devops.vercel.app">
+  <a href="[https://neeraj-devops.vercel.app](https://clouddevopslabs.in/)">
     <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -77,12 +77,7 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 ---
 
-## 📈 The Dashboard
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=neerajnakka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
 
 
 ---
@@ -111,7 +106,6 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 <br />
 
-<p>I design, automate, and deploy systems that turn code into production-grade reality. My journey began with full-stack development—building web apps with Php, React, and Node.js For me, DevOps isn't just about speed—it's about precision, repeatability, and creating systems that empower developers to ship confidently and innovate faster.</p>
 
 &nbsp;
 <p align="center">
