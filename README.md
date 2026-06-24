@@ -5,9 +5,9 @@
 ### 🌩️ Cloud Architect | ⚙️ DevOps Engineer | 🐧 Linux Enthusiast
 
 <p align="center">
-  <a href="[[https://neeraj-devops.vercel.app](https://clouddevopslabs.in/)](https://clouddevopslabs.in/)">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+ <a href="https://clouddevopslabs.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Now-blue?style=for-the-badge" />
+</a>
 </p>
 
 </div>
