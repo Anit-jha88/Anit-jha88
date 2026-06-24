@@ -89,11 +89,25 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 ## 📡 Establish Connection
 
-<div align="center">
-  <a href="https://linkedin.com/in/neerajchandran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:neerajnakka.n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/neerajnakka/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" /></a>
-</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anit-jha-06886280/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@anitjha4795" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube Badge"/> 
+  </a>&nbsp;
+ 
+  
+   <a href="https://www.facebook.com/anit.jha.9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>   
+  </a>&nbsp;
+  <a href="https://twitter.com/your-twitter-handle" target="_blank" >
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>&nbsp;
+   <a href="https://www.instagram.com/anitkumar.jha/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>&nbsp;
+</div> 
 
 <br />
 
