@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Anit Kumar Jha   
+# ⚡ Anit Kumar Jha    
 
 ### 🌩️ Cloud Architect | ⚙️ DevOps Engineer | 🐧 Linux Enthusiast    
 
