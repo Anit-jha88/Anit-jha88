@@ -2,7 +2,7 @@
 
 # ⚡ Anit Kumar Jha      
 
-### 🌩️ Cloud Architect | ⚙️ DevOps Engineer | 🐧 Linux Enthusiast     
+### 🌩️ Cloud Architect | ⚙️ DevOps Engineer | 🐧 Linux Enthusiast      
 
 <p align="center">
  <a href="https://clouddevopslabs.in/" target="_blank">
