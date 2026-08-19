@@ -73,7 +73,8 @@ I don't just use deployment tools; I understand the systems running beneath them
 ---
 
 ## 🏅 Certifications & Badges
-* 🏆 **Oracle Cloud Infrastructure (OCI) 2025 Certified DevOps Professional**
+* 🏆 **Completed hands-on training in Linux, Git, Docker, Jenkins, Kubernetes, Terraform, AWS (EC2, S3, IAM,
+VPC), and CI/CD pipeline implementation.**
 * 🏆 **Oracle Cloud Infrastructure (OCI) 2025 Certified Developer Professional**
 
 ---
