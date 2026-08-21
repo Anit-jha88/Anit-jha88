@@ -61,7 +61,7 @@ I don't just use deployment tools; I understand the systems running beneath them
 </p>
 
 ### 💻 Application Layer (The Roots)
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
