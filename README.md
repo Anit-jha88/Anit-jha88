@@ -25,7 +25,7 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 ---
 
-## 🚀 The Engineering Impact
+## 🚀 The Engineering Impact 
 
 - **🏗️ Cloud-Native Architecture:** Designing highly available microservices on **AWS EKS** with auto-scaling, self-healing, and rolling updates to sustain 99.8% uptime.
 - **🔄 Pipeline Velocity:** Replacing manual deployments with robust **CI/CD pipelines** (Jenkins, GitHub Actions, GitLab CI), reducing delivery time by 60%.
