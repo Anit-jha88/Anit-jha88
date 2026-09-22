@@ -43,7 +43,7 @@ I don't just use deployment tools; I understand the systems running beneath them
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### ⚙️ Automation & CI/CD
+### ⚙️ Automation & CI/CD 
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
