@@ -36,7 +36,7 @@ I don't just use deployment tools; I understand the systems running beneath them
 
 ## 🛠️ The Arsenal  
 
-### ☁️ Cloud & Orchestration
+### ☁️ Cloud & Orchestration 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
