@@ -52,7 +52,7 @@ I don't just use deployment tools; I understand the systems running beneath them
   <img src="https://img.shields.io/badge/ArgoCD-ef7b4d?style=for-the-badge&logo=argo-cd&logoColor=white" alt="ArgoCD" />
 </p>
 
-### 🐧 Core Systems & Observability
+### 🐧 Core Systems & Observability 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-%2304A5E5.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
