@@ -21,7 +21,7 @@ Every great application needs a home. My journey started in writing code (Full S
 
 Today, I engineer the environments where software thrives. 
 
-I don't just use deployment tools; I understand the systems running beneath them. **Linux** provides my foundational understanding of the OS layer, **AWS** gives me the canvas for global scale, and **DevOps** (Kubernetes, Terraform, CI/CD) provides the velocity to deliver software flawlessly. I bridge the gap between development and operations by building systems that are automated, secure, and deeply observable.
+I don't just use deployment tools; I understand the systems running beneath them. **Linux** provides my foundational understanding of the OS layer, **AWS** gives me the canvas for global scale, and **DevOps** (Kubernetes, Terraform, CI/CD) provides the velocity to deliver software flawlessly. I bridge the gap between development and operations by building systems that are automated, secure, and deeply observable. 
 
 ---
 
