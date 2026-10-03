@@ -60,7 +60,7 @@ I don't just use deployment tools; I understand the systems running beneath them
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana" />
 </p>
 
-### 💻 Application Layer (The Roots)
+### 💻 Application Layer (The Roots) 
 <p align="left"> 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
