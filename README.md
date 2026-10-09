@@ -19,7 +19,7 @@
 
 Every great application needs a home. My journey started in writing code (Full Stack Web Development), but I quickly realized that the true magic happens in the infrastructure. I became obsessed with the mechanics of how applications are deployed, scaled, and kept alive.
 
-Today, I engineer the environments where software thrives. 
+Today, I engineer the environments where software thrives.  
 
 I don't just use deployment tools; I understand the systems running beneath them. **Linux** provides my foundational understanding of the OS layer, **AWS** gives me the canvas for global scale, and **DevOps** (Kubernetes, Terraform, CI/CD) provides the velocity to deliver software flawlessly. I bridge the gap between development and operations by building systems that are automated, secure, and deeply observable. 
 
